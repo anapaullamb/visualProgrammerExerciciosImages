@@ -1,0 +1,10 @@
+Codifique um programa em C que solicite ao usuário dois valores inteiros e apresente todos os números existentes entre eles. Veja o exemplo a seguir:
+Codifique um programa em C que solicite ao usuário dois valores inteiros e apresente todos os números ímpares entre eles. Veja o exemplo a seguir:
+Codifique um programa em C que solicite ao usuário dois valores inteiros, efetue a soma de todos os valores pares, apresentando resultado. Veja o exemplo a seguir:
+Codifique um programa em C que solicite ao usuário, repetidamente, números inteiros, até que o usuário digite o valor “-1”. Ao final, identifique e apresente o maior valor digitado. Veja o exemplo a seguir:
+Codifique um programa em C que solicite ao usuário dois valores inteiros e apresente todos os números do primeiro valor até 0 e de 0 até o segundo valor. Veja os exemplos a seguir:
+Codifique um programa em C que solicite ao usuário dois valores inteiros. Caso o primeiro valor seja menor que o segundo, apresente todos os valores existentes entre eles de modo crescente. Caso o primeiro valor seja maior que o segundo, apresente todos os valores existentes entre eles de modo decrescente. Veja os exemplos a seguir:
+Codifique um programa em C que solicite ao usuário dois valores inteiros e apresente o maior valor divisível por 7 existente entre eles. Veja os exemplos a seguir:
+Codifique um programa em C que solicite ao usuário um valor inteiro. Após o recebimento, calcule o fatorial desse número e apresente o resultado. O formato de saída deve ser igual ao apresentado abaixo. Veja os exemplos a seguir:
+Codifique um programa em C que solicite ao usuário um valor inteiro. Após o recebimento, indique se o número é primo ou não. Primos são números divisíveis apenas por 1 e por ele mesmo. Veja os exemplos a seguir:
+Codifique um programa em C que solicite ao usuário 7 valores inteiros. Considere que o usuário sempre digitará valores entre 0 e 1000. Após o recebimento, apresente estes valores em ordem decrescente. Veja os exemplos a seguir:

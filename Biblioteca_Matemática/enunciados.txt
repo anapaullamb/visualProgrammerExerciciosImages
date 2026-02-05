@@ -1,0 +1,7 @@
+Codifique um programa em C que solicite ao usuário um valor inteiro, armazene o valor digitado numa variável, calcule a raiz quadrada desse valor e exiba o resultado. Veja o exemplo a seguir:
+Codifique um programa em C que solicite ao usuário dois valores inteiros (base e potência), armazene os valores digitados em duas variáveis, efetue o cálculo da potência do primeiro valor elevado ao segundo e exiba o resultado. Veja o exemplo a seguir:
+Codifique um programa em C que solicite ao usuário o valor do ângulo interno de um triângulo, armazene o valor digitado numa variável, calcule o seno e o cosseno para o ângulo recebido e exiba o seu conteúdo. Veja o exemplo a seguir:
+Codifique um programa em C que solicite ao usuário o valor ponto flutuante com três casas após a vírgula, armazene o valor numa variável e efetue seu arredondamento para cima e para baixo. Apresente o resultado dos arredondamentos. Veja o exemplo a seguir:
+Codifique um programa em C que solicite ao usuário dois valores inteiros. Após o recebimento calcule a raiz quadrada, da potência do segundo valor elevado ao primeiro (√y^x). Veja os exemplos a seguir:
+Codifique um programa em C que solicite ao usuário os catetos oposto (co) e adjacente (ca) para um dado triângulo retângulo. Após o recebimento calcule e apresente o valor da hipotenusa. Veja os exemplos a seguir:
+Codifique um programa em C que solicite ao usuário os coeficientes (a, b, c) de uma equação do 2º grau. Após o recebimento calcule e apresente o valor das raízes da equação. Veja os exemplos a seguir:
